@@ -5,9 +5,9 @@ This web app helps you manage a list of guests.
 
 How It Works
 
-Type a name in the input box.
+1.Type a name in the input box.
 
-Click Add Guest to add it to the list.
+2.Click Add Guest to add it to the list.
 
-Click Remove to delete the guest from the list.
+3.Click Remove to delete the guest from the list.
 
