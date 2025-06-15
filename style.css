@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: floralwhite;
+  padding: 12px;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  display: flex;
+  gap: 10px;
+}
+input {
+  flex: 1;
+  padding: 12px;
+}
+button {
+  padding: 10px 12px;
+  cursor: default;
+}
+.container {
+color: black;
+font-family: 'Times New Roman', Times, serif;
+
+}
